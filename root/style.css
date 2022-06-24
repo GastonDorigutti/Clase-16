@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.Principal {
+    
+    background-color:#00669F;
+    color: #FFFFFF;
+
+
+}
+
+.Principal h1 p {
+    text-align: center;
+}
+
+
+form {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    padding-left: 10px;
+
+}
+
+.izquierda {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.derecha {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.poderes {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    display: flex;
+    justify-content:center
+
+    
+}
